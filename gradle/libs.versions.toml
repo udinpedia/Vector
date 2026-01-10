@@ -1,0 +1,14 @@
+[versions]
+agp = "8.13.2"
+kotlin = "2.3.0"
+ktfmt = "0.25.0"
+
+[plugins]
+agp-lib = { id = "com.android.library", version.ref = "agp" }
+agp-app = { id = "com.android.application", version.ref = "agp" }
+kotlin = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+ktfmt = { id = "com.ncorti.ktfmt.gradle", version.ref = "ktfmt" }
+
+[libraries]
+agp-apksig = { group = "com.android.tools.build", name = "apksig", version.ref = "agp" }
+kotlin-stdlib = { module = "org.jetbrains.kotlin:kotlin-stdlib", version.ref = "kotlin" }
